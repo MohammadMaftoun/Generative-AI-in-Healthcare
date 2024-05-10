@@ -25,7 +25,7 @@ Generative AI in healthcare presents unique challenges and ethical concerns, suc
 
 # Best Practices and Recommendations
 
-To address the challenges and ethical considerations in healthcare, we recommend the following best practices:
+To address the challenges and ethical considerations in healthcare, we suggest the following best practices:
 
     Data Privacy and Security: Implement robust data anonymization and security measures.
     Bias Mitigation: Use diverse training datasets and collaborate with ethicists to ensure fairness.
