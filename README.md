@@ -21,7 +21,7 @@ Generative AI in healthcare presents unique challenges and ethical concerns, suc
     Patient Privacy: Ensuring synthetic data does not compromise patient privacy or lead to re-identification.
     Bias and Fairness: Mitigating biases that could result in discriminatory outcomes in healthcare.
     Regulatory Compliance: Adhering to healthcare regulations like HIPAA, GDPR, and other compliance requirements.
-    Safety and Reliability: Ensuring generative AI models are safe and reliable for clinical use.
+    Safety and Reliability: Providing generative AI models are safe and reliable for clinical use.
 
 # Best Practices and Recommendations
 
