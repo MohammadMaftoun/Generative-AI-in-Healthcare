@@ -4,7 +4,7 @@ This repository is dedicated to exploring the use of generative AI models in hea
 
 # Introduction
 
-Generative AI has made significant strides in healthcare, with models capable of creating synthetic medical images, discovering potential drug compounds, EHR, and simulating clinical scenarios. This repository aims to serve as a collaborative platform for exploring these technologies, discussing their impact on healthcare, and addressing their challenges.
+Generative AI has made significant strides in healthcare, with models capable of creating synthetic medical images and tabular data, discovering potential drug compounds, EHR, and simulated clinical scenarios. This repository aims to serve as a collaborative platform for exploring these technologies, discussing their impact on healthcare, and addressing their challenges.
 
 # Applications in Healthcare
 Generative AI models have various applications in healthcare, including:
@@ -15,6 +15,7 @@ Generative AI models have various applications in healthcare, including:
     Clinical Simulations: Simulation of clinical scenarios for medical education and skill development.
 
 # Challenges and Ethical Considerations
+![CHGAI](https://aiworldschool.com/wp-content/uploads/2017/09/AI-Healthcare-1200x600-Article1.png)
 
 Generative AI in healthcare proposes unique challenges and ethical concerns, such as:
 
