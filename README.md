@@ -1,5 +1,5 @@
 # Generative AI in Healthcare: Applications, Challenges, and Best Practices
-This repository is dedicated to exploring the use of generative AI models in healthcare. We aim to discuss imaginative applications, identify ethical challenges, and share best practices for leveraging generative AI to improve patient care and advance medical research. Contributions from developers, researchers, healthcare professionals, and ethicists are welcome.
+This repository is dedicated to exploring the use of generative AI models in healthcare. We aim to consult imaginative applications, identify ethical challenges, and share best practices for leveraging generative AI to improve patient care and advance medical research. Contributions from developers, researchers, healthcare professionals, and ethicists are welcome.
 ![GAI](https://www.xenonstack.com/hs-fs/hubfs/Gen-AI-in-healthcare.png?width=1281&height=905&name=Gen-AI-in-healthcare.png)
 
 # Introduction
@@ -36,4 +36,4 @@ To address the challenges and ethical considerations in healthcare, we propose t
 
 # Contributing
 
-We welcome contributions from developers, researchers, healthcare professionals, and ethicists. If you have insights, code samples, or resources to share, please submit a pull request or open an issue to start a discussion.
+We welcome contributions from developers, researchers, healthcare professionals, and ethicists. If you have insights, code samples, or resources to share, please submit a pull request or open a topic to start a discussion.
