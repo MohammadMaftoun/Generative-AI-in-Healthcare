@@ -32,7 +32,7 @@ To address the challenges and ethical considerations in healthcare, we propose t
     Bias Mitigation: Use diverse training datasets and collaborate with ethicists to ensure fairness.
     Regulatory Compliance: Stay updated on healthcare regulations and ensure compliance in all AI-related activities.
     Validation and Testing: Conduct rigorous validation and testing to ensure the reliability and safety of AI tools.
-    Collaboration with Healthcare Professionals: Engage with healthcare providers to ensure AI tools are designed with user feedback and meet their needs.
+    Collaboration with Healthcare Professionals: Engage with healthcare providers to ensure AI tools are developed with user feedback and meet their needs.
 
 # Contributing
 
