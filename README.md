@@ -4,7 +4,7 @@ This repository is devoted to exploring the usage of generative AI models in hea
 
 # Introduction
 
-Generative AI has made significant strides in healthcare, with models capable of creating artificial medical images and tabular data, discovering potential drug compounds, EHR, and simulated clinical scenarios. This repository seeks to be a collaborative platform for exploring these technologies, discussing their impact on healthcare, and handling their challenges.
+Generative AI has made significant strides in healthcare, with models capable of creating artificial medical images and tabular data, discovering potential drug compounds, EHR, and simulated clinical scenarios. This repository aims to be a collaborative platform for exploring these technologies, discussing their impact on healthcare, and handling their challenges.
 
 # Applications in Healthcare
 Generative AI models have various applications in healthcare, including:
