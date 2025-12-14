@@ -17,12 +17,12 @@ Generative AI models have multiple applications in healthcare, including:
 # Challenges and Ethical Considerations
 ![CHGAI](https://aiworldschool.com/wp-content/uploads/2017/09/AI-Healthcare-1200x600-Article1.png)
 
-Generative AI in healthcare proposes unique challenges and ethical concerns, such as:
+Generative AI in healthcare poses unique challenges and ethical concerns, such as:
 
     Patient Privacy: Ensuring synthetic data does not compromise patient privacy or lead to re-identification.
     Bias and Fairness: Mitigating biases that could result in discriminatory outcomes in healthcare.
     Regulatory Compliance: Adhering to healthcare regulations like HIPAA, GDPR, and other compliance requirements.
-    Safety and Reliability: Providing generative AI models are safe and reliable for clinical use.
+    Safety and Reliability: Providing generative AI models that are safe and reliable for clinical use.
 
 # Best Practices and Recommendations
 
